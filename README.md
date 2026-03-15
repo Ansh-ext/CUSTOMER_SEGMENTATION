@@ -20,4 +20,4 @@ streamlit run Segmentation_dashboard.py
 
 ## Live Demo
 
-Streamlit App: [https://your-streamlit-link.streamlit.app](https://customersegmentation-8aj7eds4oakwi3jpxva3kc.streamlit.app/)
+Streamlit App: [Customer Segmentation Dashboard](https://customersegmentation-8aj7eds4oakwi3jpxva3kc.streamlit.app/)
