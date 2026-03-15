@@ -8,15 +8,7 @@ An interactive dashboard built with Streamlit that performs customer segmentatio
 * Customer segmentation using K-Means clustering
 * User input for predicting customer segment
 * Data visualizations using Plotly
-  
-## Run Locally
 
-```bash
-git clone https://github.com/your-username/customer-segmentation-dashboard.git
-cd customer-segmentation-dashboard
-pip install -r requirements.txt
-streamlit run Segmentation_dashboard.py
-```
 
 ## Live Demo
 
